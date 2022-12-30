@@ -1,6 +1,6 @@
 #include <stdio.h> 
 int main(){
-
+    char sopcomitar;
 
     //criando a string da frase que vai ser analisada
     char frase[11000];
